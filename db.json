@@ -1,0 +1,72 @@
+{
+  "usuarios": [
+    {
+      "nome": "Carvalho Kelson",
+      "image": "",
+      "email": "kelsonfabricio@gmail.com",
+      "telefone": 61996665649,
+      "idade": 37,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "junior",
+      "image": "",
+      "email": "juniorfellas@gmail.com",
+      "telefone": 61996664956,
+      "idade": 37
+    },
+    {
+      "id": 3,
+      "nome": "Domingas",
+      "image": "",
+      "email": "domingas@gmail.com",
+      "telefone": 61996664956,
+      "idade": 37
+    },
+    {
+      "id": 4,
+      "nome": "Yasmin Maciel",
+      "image": "",
+      "email": "maciel@gmail.com",
+      "telefone": 61996664956,
+      "idade": 37
+    },
+    {
+      "id": 5,
+      "nome": "Larissa Maciel",
+      "image": "",
+      "email": "larilissa@gmail.com",
+      "telefone": 61996664956,
+      "idade": 37
+    }
+  ],
+
+  "bebidas": [
+    {
+      "refrigerantes": [
+        {
+          "id": 1,
+          "nome": "Fanta Uva",
+          "image": "",
+          "quantidade": "1 L",
+          "valor": "7,99"
+        },
+        {
+          "id": 2,
+          "nome": "Fanta Laranja",
+          "image": "",
+          "quantidade": "2 L",
+          "valor": "6,99"
+        },
+        {
+          "id": 2,
+          "nome": "Fanta Laranja lata",
+          "image": "",
+          "quantidade": "360 ml",
+          "valor": "4,99"
+        }
+      ]
+    }
+  ]
+}
