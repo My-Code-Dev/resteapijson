@@ -1,0 +1,19 @@
+{
+  "name": "resteapijson",
+  "version": "1.0.0",
+  "description": "Api rest json para teste de front-end que nao possui beck-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeBuilder23/resteapijson.git"
+  },
+  "author": "Kelson Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeBuilder23/resteapijson/issues"
+  },
+  "homepage": "https://github.com/CodeBuilder23/resteapijson#readme"
+}
