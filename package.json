@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CodeBuilder23/resteapijson/issues"
   },
-  "homepage": "https://github.com/CodeBuilder23/resteapijson#readme"
+  "homepage": "https://github.com/CodeBuilder23/resteapijson#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
